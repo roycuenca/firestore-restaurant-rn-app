@@ -1,6 +1,6 @@
 # Hello!
 
-## Restaurant app with Firestore
+## React Native Restaurant app with Firestore
 
 ### Description
 
