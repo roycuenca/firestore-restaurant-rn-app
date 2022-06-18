@@ -41,7 +41,7 @@ Expo start
 
 ### Image references:
 
-###Login
+### Login
 
 ![Screen Shot 2022-06-18 at 15 38 39](https://user-images.githubusercontent.com/38863724/174452948-5693ff9b-6523-49a7-8798-7178289bbe13.png)
 
